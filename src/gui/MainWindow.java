@@ -28,7 +28,7 @@ public class MainWindow extends javax.swing.JFrame {
 	
 	
 	public void runTest() {
-		loadFonts();
+//		loadFonts();
 		FontComboUtil.prepareFontLists();
 	}
 	
